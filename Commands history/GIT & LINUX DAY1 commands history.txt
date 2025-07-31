@@ -1,0 +1,244 @@
+history
+    1  cd Desktop/
+    2  git config --global sai.Saileela "NALLAMALA SAILEELA"
+    3  git --version
+    4  git config list
+    5  git config --user.email "nallamalasaileela@gmail.com"
+    6  git --version
+    7  git clone https://github.com/Nsd1027/5218965_SAILEELA.git
+    8  cd 5218965_SAILEELA/
+    9  git add.
+   10  git add .
+   11  git commit -m "First commit"
+   12  git config --global user.email "nallamalasaileela@gmail.com"
+   13  git config --global user.name "SAILEELA"
+   14  git commit -m "First commit"
+   15  git clone https://github.com/Nsd1027/5218965_SAILEELA.git
+   16  cd 5218965_SAILEELA/
+   17  git add .
+   18  git commit -m "First commit"
+   19  git push
+   20  git add .
+   21  git cd 5218965_SAILEELA/
+   22  git add .
+   23  git commit -m "First commit"
+   24  git push
+   25  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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
+   26  git push
+   27      cd /path/to/your/local/repository
+   28  git add text.txt
+   29  git add test.txt
+   30  git add Test.txt
+   31  git add .
+   32  git commit -m "Add Tst.txt"
+   33  git push
+   34  git rm 5218965_SAILEELA
+   35  git clone <https://github.com/Nsd1027/5218965_SAILEELA.git>
+   36  cd <5218965_SAILEELA>
+   37  git log -- <5218965_SAILEELA>
+   38  git filter -branch --index-filter "git rm --cached --ignore-unmatch 5218965_SAILEELA"HEAD
+   39  git push origin main --force
+   40  git add .
+   41  git commit -m "First commit"
+   42  git push
+   43  git push
+   44  git push
+   45  git clone https://github.com/Nsd1027/5218965_SAILEELA.git
+   46  git 5218965_SAILEELA/
+   47  cd 5218965_SAILEELA/
+   48  git add .
+   49  git commit -m "First commit"
+   50  git push
+   51  git pull origin main --rebase
+   52  git push origin main
+   53  git push
+   54  git status
+   55  git add .
+   56  git rm --cached -r 5218965_SAILEELA
+   57  git rm --cached -rf 5218965_SAILEELA
+   58  rm -rf 5218965_SAILEELA/.git
+   59  git add .
+   60  git commit -m "Removed the embedded git"
+   61  git push
+   62  git status
+   63  git clone https://github.com/Nsd1027/5218965_Sai-Leela.git
+   64  git add .
+   65  git commit -m "First commit"
+   66  git push
+   67  git add .
+   68  git commit -m "Update the text"
+   69  git push
+   70  git add .
+   71  git commit -m "Add the screenshot"
+   72  git push
+   73  git branch Dev
+   74  git branch
+   75  git add .
+   76  git commit -m "Udate the branch"
+   77  git push
+   78  git checkout Dev
+   79  git add .
+   80  git commit -m "Update "
+   81  git push
+   82   git push --set-upstream origin Dev
+   83  git add .
+   84  git commit -m "Add the git certificate"
+   85  git push
+   86  git diff
+   87  git diff main Dev
+   88  git switch main
+   89  git merge Dev
+   90  git push
+   91  git branch -d Dev
+   92  git push origin --delete Dev
+   93  git branch Devp
+   94  git branch
+   95  git push
+   96  git switch Devp
+   97  git push
+   98  git push --set-upstream origin Devp
+   99  history
+  100  git clone https://github.com/Nsd1027/5218965_SAILEELA.git
+  101  cd 5218965_SAILEELA/
+  102  git add .
+  103  git commit -m "First commit"
+  104  git push
+  105  git add .
+  106  git commit -m "Add the screenshot"
+  107  git push
+  108  git file -d GIT
+  109  rmdir /s /q folder-name
+  110  rmdir /s /q GIT
+  111  git branch -d main
+  112  git add .
+  113  git commit -m "Added the certificate"
+  114  git push
+  115  git status
+  116  git add .
+  117  git commit -m "Deleted the certificate"
+  118  git push
+  119  git add .
+  120  git commit -m "Add the certificate"
+  121  git push
+  122  git switch "Add the screenshot"
+  123  git commit -m "Add the certificate"
+  124  git push
+  125  git add .
+  126  git commit -m "Add another screenshot"
+  127  git push
+  128  git branch Dev
+  129  git branch
+  130  git switch Dev
+  131  git push
+  132  git push --set-upstream origin Dev
+  133  git diff
+  134  git diff main Dev
+  135  git switch main
+  136  git merge Dev
+  137  git push
+  138  git push
+  139  git add .
+  140  git commit -m "Update the first commit"
+  141  git push
+  142  git clone https://github.com/jahnavipandraju/5217516_JAHNAVI.git
+  143  git 5217516_JAHNAVI/
+  144  git add .
+  145  git 5217516_JAHNAVI/
+  146  git add .
+  147  git commit -m "Fist message"
+  148  git push
+  149  git push
+  150  git config -- user.name "jahnavi"
+  151  git config -- user.mail "jahnavipandraju@gmail.com"
+  152  git
+  153  git add .
+  154  git commit -m "First Message"
+  155  git push
+  156  git add .
+  157  git commit -m "update the text"
+  158  git push
+  159  git add .
+  160  git commit -m "add sc"
+  161  git push
+  162  git add .
+  163  git commit -m "add git"
+  164  git push
+  165  git push
+  166  git push
+  167  git add .
+  168  git commit -m "First Message"
+  169  git push
+  170  git add .
+  171  git commit -m "Update"
+  172  git push
+  173  ls
+  174  ls
+  175  ls
+  176  ls
+  177  ls
+  178  cd New folder/
+  179  ls
+  180  ls
+  181  date
+  182  bc
+  183  sudo apt update
+  184  ls
+  185  cd
+  186  bc
+  187  bash
+  188  bc
+  189  bash bc
+  190  date
+  191  bc
+  192  wsl
+  193  ls
+  194  date
+  195  bc
+  196  bash --version
+  197  bc
+  198  soud apt update
+  199  sudo apt update
+  200  sudo apt upgrade -y
+  201  sudo apt update
+  202  git tag<test>
+  203  git tag <test>
+  204  git tag <git>
+  205  git push
+  206  git push
+  207  git tag <git>
+  208  git tag <newtag1>
+  209  git tag v1.0.0
+  210  git tag v1.0.0 <commit-hash>
+  211  git tag v1.0.0 <newtag1>
+  212  git tag v1.0.0
+  213  git tag v1.0.0 <git>
+  214  git tag v1.0.0 githash
+  215  git tag v1.0.0 abcdf
+  216  git switch main
+  217  git tag v1.0.0
+  218  git tag v1.0.0 newtag
+  219  git clone https://github.com/Nsd1027/5218965_Sai-Leela.git
+  220  ls
+  221  ls
+  222  cd Linux
+  223  ls
+  224  mv New Text Document.txt Task1.txt
+  225  ls
+  226  mv wfile.txt Task2.txt
+  227  rm newfile.txt
+  228  locate *.txt
+  229  cd Linux
+  230  cd Linux/
+  231  locate *.txt
+  232  locate Task1.txt
+  233  locate config
+  234  touch Gfg.c
+  235  locate -i "Task1.txt"
+  236  echo "Hello STEPIN"
+  237  cal
+  238  touch newfile.txt
+  239  echo -e "this file have some text" > newfile.txt
+  240  wc -w newfile.txt
+  241  cat newfile.txt
+  242  history
+
